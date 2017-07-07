@@ -1,0 +1,4 @@
+<?php
+	define("DBPROVIDER_NUMROWS", 1);
+	define("DBPROVIDER_AFFECTEDROWS", 2);
+?>
